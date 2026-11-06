@@ -1,0 +1,22 @@
+{
+  "wheel_id": 768,
+  "structure": "umbrella",
+  "slug": "renovationsydney-155",
+  "project": "renovation-builders-sydney-feb176b4f9b37821b5eb3a341bbef1bacdb0",
+  "parent_t1_ref": "renovationsydney-014",
+  "node_role": "buffer",
+  "money_target": "renovationsydney.com.au",
+  "primary_kw": "renovation builders sydney",
+  "intended_url": "http://renovation-builders-sydney-feb176b4f9b37821b5eb3a341bbef1bacdb0.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "a72b2322301a99c1",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/renovation-builders-sydney-014/",
+      "anchor": "this overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
